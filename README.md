@@ -11,7 +11,11 @@ Email Me 👉 ✉️ **karanprasad350@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Gaming!
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MOXLYGAMING) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanprasad350@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MOXLYGAMING)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanprasad350@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-prasad-29826b278/)
+`
+
 
 <!-- Snake Game Repo View -->
 
